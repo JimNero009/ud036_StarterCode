@@ -1,6 +1,7 @@
 from fresh_tomatoes import open_movies_page
 from media import Movie
 
+# a list of my 5 favourite movies
 movies = [
     Movie(
         'The Fellowship of the Ring',
@@ -32,5 +33,6 @@ movies = [
     )
 ]
 
+# if the file is run as main, generate and show the web page
 if __name__ == '__main__':
     open_movies_page(movies)
