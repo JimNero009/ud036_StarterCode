@@ -11,8 +11,7 @@ movies = [
     Movie(
         '12 Angry Men',
         'https://ia.media-imdb.com/images/M/'
-        'MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@'
-        '._V1_UX182_CR0,0,182,268_AL_.jpg',
+        'MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg',   #NOQA
         'https://www.youtube.com/watch?v=A7CBKT0PWFA'
     ),
     Movie(
@@ -22,8 +21,7 @@ movies = [
     ),
     Movie(
         'Goldfinger',
-        'https://1.bp.blogspot.com/-n9BvJyMC3cw/T6dgT7oTs5I/AAAAAAAADe0/'
-        '-JlhCGv_3lg/s1600/goldfinger-tribute-poster.jpg',
+        'https://1.bp.blogspot.com/-n9BvJyMC3cw/T6dgT7oTs5I/AAAAAAAADe0/-JlhCGv_3lg/s1600/goldfinger-tribute-poster.jpg',  #NOQA
         'https://www.youtube.com/watch?v=MA65V-oLKa8'
     ),
     Movie(

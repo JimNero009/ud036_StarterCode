@@ -1,5 +1,9 @@
 class Movie:
-    # a simple class, storing a title, poster_url and movie_url
+    '''A simple class, storing a title, poster_url and movie_url.
+    Call the constructor with a movie title and (optionally)
+    a poster URL and movie trailer URL
+    '''
+
     def __init__(
         self,
         title,
